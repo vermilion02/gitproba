@@ -1,6 +1,0 @@
-print("igorove izmene")
-print("Novoooooo")
-print("Lililili")
-print("PMF University je oblji od FONa")
-print("ETF University je oblji od FONa")
-print("caoooooooo")
