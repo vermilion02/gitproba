@@ -1,5 +1,1 @@
-print("Prva recenica")
-print("Druga recenica")
-print("Prvi fajl recenicaaaaa")
-print("Neka izmena")
-print("Ja sam novi")
+print("igorove izmene")
