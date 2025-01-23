@@ -1,7 +1,5 @@
 <?php
 
-set_include_path(get_include_path() . PATH_SEPARATOR . 'E:\obroci_domaci\internet-tehnologije-2024-projekat-app_za_planiranje_obroka_2021_0271\app-obroci');
-
 use Illuminate\Http\Request;
 
 define('LARAVEL_START', microtime(true));
