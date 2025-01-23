@@ -12,7 +12,9 @@ class Recept extends Model
         'naziv',
         'opis'
     ];
+    
     use HasFactory;
+
     function obroci(){
         return $this->hasMany(Obrok::class);
     }
